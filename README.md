@@ -384,6 +384,6 @@ Done.
 
 Se tiver alguma dúvida, confira o código completo:
 
-[BufferedReader]()
-[Scanner]()
-[Files]()
+* [BufferedReader](https://github.com/lGabrielDev/Java_ler_arquivos/blob/main/buffered_reader.java)
+* [Scanner](https://github.com/lGabrielDev/Java_ler_arquivos/blob/main/scanner.java)
+* [Files](https://github.com/lGabrielDev/Java_ler_arquivos/blob/main/files.java)
